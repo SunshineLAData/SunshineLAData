@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I am a data consultant at Kaiser Permenante with extensive experience in data exploration analysis, data visualization, and marketing campaign management.
 <!--
 **SunshineLAData/SunshineLAData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
