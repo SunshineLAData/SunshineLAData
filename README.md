@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on completing Kaggle project about predicting house prices
+- 🔭 I’m currently working on completing a Kaggle project about predicting house prices
 - 🌱 I’m currently learning to build sophistcated models
 - ⚡ Fun fact: I have negative sense of directions
 -->
