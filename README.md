@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a data consultant at Kaiser Permenante with extensive experience in data exploration analysis, data visualization, and marketing campaign management.
 
-🔭 I’m currently working on a Kaggle project about predicting house prices
+🔭 I will join 2021 MIT Policy Hackathon
 
 🌱 I’m currently learning to build sophistcated models
 
