@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a data consultant at Kaiser Permenante with extensive experience in data exploration analysis, data visualization, and marketing campaign management.
 
-🔭 I will join 2021 MIT Policy Hackathon
+🔭 I am attending 2021 MIT Policy Hackathon
 
 🌱 I’m currently learning to build sophistcated models
 
