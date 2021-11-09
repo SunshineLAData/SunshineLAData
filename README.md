@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am a data consultant at Kaiser Permenante with extensive experience in data exploration analysis, data visualization, and marketing campaign management.
+I am a data marketing consultant at a large healthcare organization with extensive experience in data exploration analysis, data visualization, and marketing campaign management.
 
-🔭 I am attending 2021 MIT Policy Hackathon
+🔭 I am a freelancing data scientist at fiverr
 
-🌱 I’m currently learning to build sophistcated models
+🌱 I enjoy good coffee
 
 ⚡ Fun fact: I have negative sense of directions
 
